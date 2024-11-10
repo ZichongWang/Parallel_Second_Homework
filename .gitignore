@@ -1,0 +1,4 @@
+dataset/
+*.out
+*.exe
+*.bin
